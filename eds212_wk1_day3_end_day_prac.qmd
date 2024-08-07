@@ -1,0 +1,18 @@
+---
+title: "eds212_wk1_day3_end_day_prac"
+author: "Joshua Paul Cohen"
+format: html
+---
+
+```{r}
+vec_a <- c(1, 6)
+vec_b <- c(2, 4)
+
+# check by hand solutions to these
+
+vec_a + vec_b
+vec_b - vec_a
+vec_a * 2
+vec_a %*% vec_b
+```
+
